@@ -1,1 +1,2 @@
 second file creation for master branch
+adding second line to compare difference through diff function through commit id's
