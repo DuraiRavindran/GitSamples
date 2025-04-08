@@ -1,2 +1,3 @@
 second file creation for master branch
 adding second line to compare difference through diff function through commit id's
+addiing third line to check stash function 
